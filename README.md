@@ -9,3 +9,9 @@ pip install -r /path/to/requirements.txt
 ```
 
 Screens:
+
+![Home](https://raw.githubusercontent.com/frankie-2nfro-com/VisionFlappyGame/main/screens/home.png)
+
+![Play](https://raw.githubusercontent.com/frankie-2nfro-com/VisionFlappyGame/main/screens/play.png)
+
+![Gameover](https://raw.githubusercontent.com/frankie-2nfro-com/VisionFlappyGame/main/screens/gameover.png)
