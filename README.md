@@ -8,6 +8,11 @@ After clone this game, you can install needed package by:
 pip install -r /path/to/requirements.txt
 ```
 
+Run by:
+```python
+python main.py
+```
+
 <br />
 
 ## Demonstration Video
